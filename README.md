@@ -3,8 +3,8 @@ A script to sort your downloads folder into several categories. (Currently for w
 
 ## Instructions
 Download the respective script file for your OS.
-Windows: `cleanup.bat`
-Linux: `cleanup.sh` (coming soon)
+* Windows: `cleanup.bat`
+* Linux: `cleanup.sh` (coming soon)
 
 Run the file, either through the command line or the file explorer. The script will create several folders and sort all the downloaded files.
 
